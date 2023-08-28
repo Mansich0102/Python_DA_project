@@ -1,2 +1,3 @@
 # Python_DA_project
-welcomes 
+will be providing full python projects
+.csv file is a sample data file
